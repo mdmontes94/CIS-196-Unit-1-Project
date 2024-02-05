@@ -41,6 +41,10 @@ ul::after {
 	display: table;
 }
 
+h1 {
+    text-align: center;
+}
+
 @media only screen and (min-width: 600px) {
      
     a.navicon {
@@ -61,6 +65,11 @@ ul::after {
     nav {
         width: 100%;
         display: block;
+    }
+
+    #grumpy {
+        display: block;
+        margin: auto;
     }
 
     #goofy {
