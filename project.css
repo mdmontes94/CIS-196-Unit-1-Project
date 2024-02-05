@@ -62,4 +62,15 @@ ul::after {
         width: 100%;
         display: block;
     }
+
+    #goofy {
+        margin-top: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+    }
+
+    h3 {
+        margin-left: 10px;
+    }
 }
