@@ -41,6 +41,18 @@ ul::after {
 	display: table;
 }
 
+div {
+    text-align: center;
+}
+
+#secondJoke, #thirdJoke {
+    margin-top: 100px;
+}
+
+#buttons {
+    margin-top: 100px;
+}
+
 @media only screen and (min-width: 600px) {
      
     a.navicon {
